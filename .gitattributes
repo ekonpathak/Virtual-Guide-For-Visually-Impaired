@@ -1,0 +1,2 @@
+SENSING_project/yolov3-416.weights filter=lfs diff=lfs merge=lfs -text
+SENSING_project/venv/Lib/site-packages/cv2/cv2.cp39-win_amd64.pyd filter=lfs diff=lfs merge=lfs -text
