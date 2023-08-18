@@ -1,0 +1,7 @@
+[console_scripts]
+opencv_calibrate=opencv_camera.bin.camera_calibrate:main
+opencv_capture=opencv_camera.bin.video_capture:main
+opencv_mjpeg=opencv_camera.bin.mjpeg_server:main
+udp_client=opencv_camera.bin.udp_client:main
+udp_server=opencv_camera.bin.udp_server:main
+
